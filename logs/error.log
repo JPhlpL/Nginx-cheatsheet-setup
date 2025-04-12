@@ -1,0 +1,21 @@
+2025/04/12 15:53:34 [emerg] 50016#11144: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/12 15:57:12 [emerg] 33876#34644: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/12 15:58:43 [emerg] 844#37148: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2025/04/12 15:59:53 [notice] 43036#49328: signal process started
+2025/04/12 15:59:53 [error] 43036#49328: invalid PID number "" in "C:\wamp64\www\Nginx/logs/nginx.pid"
+2025/04/12 16:00:30 [notice] 49824#28092: signal process started
+2025/04/12 16:00:30 [error] 49824#28092: invalid PID number "" in "C:\wamp64\www\Nginx/logs/nginx.pid"
+2025/04/12 16:05:53 [notice] 876#22792: signal process started
+2025/04/12 16:05:53 [error] 876#22792: CreateFile() "C:\wamp64\www\Nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/04/12 16:06:23 [notice] 26444#43480: signal process started
+2025/04/12 16:06:23 [error] 26444#43480: OpenEvent("Global\ngx_reload_41792") failed (5: Access is denied)
+2025/04/12 16:07:30 [notice] 42392#45644: signal process started
+2025/04/12 16:09:19 [notice] 39576#38468: signal process started
+2025/04/12 16:12:39 [notice] 32888#40192: signal process started
+2025/04/12 16:14:01 [notice] 45160#35928: signal process started
+2025/04/12 16:14:08 [notice] 40944#40020: signal process started
+2025/04/12 16:14:08 [error] 40944#40020: CreateFile() "C:\wamp64\www\Nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/04/12 16:14:53 [notice] 45040#25064: signal process started
+2025/04/12 16:18:13 [notice] 41780#5372: signal process started
+2025/04/12 16:18:28 [notice] 35748#29584: signal process started
+2025/04/12 16:18:28 [error] 35748#29584: CreateFile() "C:\wamp64\www\Nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
